@@ -3,3 +3,4 @@ Attendees:
 Doug Schnelzer
 Doug Toppin
 Thomas Williams
+Eric W. Fisher
