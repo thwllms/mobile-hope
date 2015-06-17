@@ -1,0 +1,24 @@
+A common feature of inventory systems is "gridding".  A good video tutorial of gridding can be found at
+|| https://www.youtube.com/watch?v=4QnZIRp5lqw  ||
+
+Other features to consider are:
+1.  Fixed and dynamic item categories, attributes and descriptions
+2.  Units of measurement and bundling options
+3.  Batch import/export
+4.  Pricing/costing/valuation - lifo, fifo, replacement, thrift shop
+5.  Tagging/scanning - Barcodes, receipts, locationID
+6.  User access, security, controls
+7.  Warranty tracking
+8.  Image options
+9.  Back orders and pending commitments
+10.  Shipping options, cost and packacging or set-up requirements
+11.  Alerts
+12.  POS and receipt generation - api?
+
+
+
+
+Some attributes to consider:
+1. Size, color, weight,...
+2.  Item condition, shelf life,...
+3.  Storage requirements - temperature, sealed, covered, indoor
